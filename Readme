@@ -1,3 +1,29 @@
-# Using Random Forest in Predicting Customer Satisfaction of Apple AirPods
+# Classification-Satisfaction-Apple-AirPods
+This is my personal project researching Apple AirPods product.
 
-### 1. Data source
+### 1. Dataset Source:
+Data used in this analysis was the result of the survey output. 
+A template of this survey can be found here. 
+The resulted dataset includes 89 observations (for each survey response) and 41 columns (for each survey question). 
+
+### 2. Problem Definition
+The analysis was conducted to identify the satisfaction level towards Apple AirPods among college students in Durham city. 
+In my assessment, I also identify the demographics of AirPods users within the Durham area, the frequency of using the devices, activities they perform while using devices, and the features that these respondents consider important during their use of the device. 
+By analyzing the respondents' answers, we'd be able to provide insights on the correlations of the important features and the current satisfactory level. 
+
+### 3. Use Scenario:
+I aim to provide recommendations for the manufacturer (Apple) to improve some of the features resulting from the analysis.
+
+### 4. Proposed Tools and Data Techniques:
+Python
+EDA
+Decision Trees
+Random Forest
+
+### 5. Files included
+Data set: Data.csv; Satisfaction-Survey-Apple-AirPods-template
+List of R-codes: Code.jpynb
+Image output: Decisiontree.png
+
+### 6. Others
+N/A
